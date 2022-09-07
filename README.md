@@ -8,8 +8,11 @@ Need a gmail email with an app password. This will be your "from email".
       https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151
       
 If monitoring the status of a Windows machine, you will need to enable Pinging. 
+
       Try this:
+      
       1. Go to Windows 10 settings
+      
       2. Network & Internet
       3. Ethernet
       4. Click on connected adapter
