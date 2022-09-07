@@ -6,8 +6,8 @@ from datetime import datetime
 
 
 # variables
-fromy = "pendragonmonitor@gmail.com"
-passy = "npsomihkbyslgjlt"
+fromy = "FROM EMAIL"
+passy = "FROM EMAIL APP PASSWORD"
 to = "YOUR EMAIL HERE"
 subject = ""
 body = ""
